@@ -1,17 +1,5 @@
-#content {
-    max-width: 1200px;
-}
-
-#content ol, #content ul {
-    line-height: 150%;
-}
-
 p img {
     width: 30%;
     margin: auto;
     display: block;
-}
-
-table {
-    height: 100%;
 }
