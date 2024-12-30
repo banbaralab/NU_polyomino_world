@@ -1,3 +1,7 @@
+#content {
+    max-width: 1200px;
+}
+
 p img {
   width: 30%;
   margin: auto;
