@@ -12,7 +12,7 @@ p img {
     display: block;
 }
 
-td {
+table td {
     max-height: 50%;
     display: block;
 }
