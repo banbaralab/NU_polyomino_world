@@ -1,0 +1,41 @@
+Problem: Q4-Y5
+Solution:
+ Bag1:
+  -- -- 06 06 -- 
+  -- -- 06 06 -- 
+  -- 04 04 09 09 
+  -- 04 04 09 09 
+  02 02 -- 08 08 
+  02 02 -- 08 08 
+  01 01 -- 07 07 
+  01 01 -- 07 07 
+  00 00 05 05 -- 
+  00 00 05 05 -- 
+  -- 03 03 -- -- 
+  -- 03 03 -- -- 
+ Bag2:
+  -- -- 0c 09 -- 
+  -- -- 0c 09 -- 
+  -- 0c 0c 09 09 
+  -- 0b 0c 09 0e 
+  0b 0b -- 0e 0e 
+  0a 0b -- 0d 0e 
+  0a 0b -- 0d 0e 
+  0a 0a -- 0d 0d 
+  0a 00 0f 0d -- 
+  00 00 0f 0f -- 
+  -- 00 0f -- -- 
+  -- 00 0f -- -- 
+#squares: 40
+#pieces:
+ Bag1: 10
+ Bag2: 8
+CPU Time: 3079.098s
+Optimum: yes
+ Board Size: 25x25
+Threads: 16
+Choices: 95815208
+Conflicts: 64345116
+Restarts: 44295
+Variables: 15759
+Constraints: 54510

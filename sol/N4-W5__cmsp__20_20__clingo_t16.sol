@@ -1,0 +1,25 @@
+Problem: N4-W5
+Solution:
+ Bag1:
+  00 01 01 -- -- -- -- -- -- 
+  00 00 01 01 -- 03 03 04 -- 
+  -- 00 02 02 03 03 -- 04 04 
+  -- -- -- 02 02 -- -- -- 04 
+ Bag2:
+  00 01 01 -- -- -- -- -- -- 
+  00 00 01 01 -- 05 06 06 -- 
+  -- 00 00 01 05 05 -- 06 06 
+  -- -- -- 05 05 -- -- -- 06 
+#squares: 20
+#pieces:
+ Bag1: 5
+ Bag2: 4
+CPU Time: 1945.876s
+Optimum: yes
+ Board Size: 20x20
+Threads: 16
+Choices: 97838831
+Conflicts: 57375204
+Restarts: 35265
+Variables: 10995
+Constraints: 33797

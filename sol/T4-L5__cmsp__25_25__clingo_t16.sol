@@ -1,0 +1,27 @@
+Problem: T4-L5
+Solution:
+ Bag1:
+  -- 00 01 01 01 02 -- 
+  00 00 00 01 02 02 -- 
+  -- -- -- 03 -- 02 -- 
+  -- -- -- 03 03 04 -- 
+  -- -- -- 03 04 04 04 
+ Bag2:
+  -- 05 05 05 05 06 -- 
+  00 00 00 00 05 06 -- 
+  -- -- -- 00 -- 06 -- 
+  -- -- -- 03 06 06 -- 
+  -- -- -- 03 03 03 03 
+#squares: 20
+#pieces:
+ Bag1: 5
+ Bag2: 4
+CPU Time: 8153.260s
+Optimum: yes
+ Board Size: 25x25
+Threads: 16
+Choices: 231900708
+Conflicts: 150835951
+Restarts: 123047
+Variables: 21786
+Constraints: 73127

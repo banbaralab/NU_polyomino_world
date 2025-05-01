@@ -1,0 +1,29 @@
+Problem: Q4-Z5
+Solution:
+ Bag1:
+  -- -- 03 03 -- -- 
+  -- -- 03 03 -- -- 
+  00 00 02 02 04 04 
+  00 00 02 02 04 04 
+  -- -- 01 01 -- -- 
+  -- -- 01 01 -- -- 
+ Bag2:
+  -- -- 06 06 -- -- 
+  -- -- 00 06 -- -- 
+  00 00 00 06 06 07 
+  00 05 05 07 07 07 
+  -- -- 05 07 -- -- 
+  -- -- 05 05 -- -- 
+#squares: 20
+#pieces:
+ Bag1: 5
+ Bag2: 4
+CPU Time: 1.602s
+Optimum: yes
+ Board Size: 30x30
+Threads: 16
+Choices: 189234
+Conflicts: 47788
+Restarts: 108
+Variables: 15614
+Constraints: 49710

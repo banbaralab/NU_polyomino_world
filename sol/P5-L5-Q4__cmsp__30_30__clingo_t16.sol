@@ -1,0 +1,49 @@
+Problem: P5-L5-Q4
+Solution:
+ Bag1:
+  03 03 
+  03 03 
+  02 03 
+  02 02 
+  02 02 
+  01 01 
+  01 01 
+  01 00 
+  00 00 
+  00 00 
+ Bag2:
+  05 05 
+  02 05 
+  02 05 
+  02 05 
+  02 02 
+  04 04 
+  04 00 
+  04 00 
+  04 00 
+  00 00 
+ Bag3:
+  03 03 
+  03 03 
+  07 07 
+  07 07 
+  06 06 
+  06 06 
+  01 01 
+  01 01 
+  00 00 
+  00 00 
+#squares: 20
+#pieces:
+ Bag1: 4
+ Bag2: 4
+ Bag3: 5
+CPU Time: 113.108s
+Optimum: yes
+ Board Size: 30x30
+Threads: 16
+Choices: 3921123
+Conflicts: 1451360
+Restarts: 1244
+Variables: 44780
+Constraints: 159703

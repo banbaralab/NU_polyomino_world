@@ -1,0 +1,27 @@
+Problem: L4-W5
+Solution:
+ Bag1:
+  -- -- -- -- 02 02 -- -- 
+  -- -- -- -- 02 03 03 -- 
+  -- 01 01 01 02 03 04 -- 
+  00 00 00 01 -- 03 04 -- 
+  00 -- -- -- -- -- 04 04 
+ Bag2:
+  -- -- -- -- 06 06 -- -- 
+  -- -- -- -- 05 06 06 -- 
+  -- 00 00 05 05 03 06 -- 
+  00 00 05 05 -- 03 03 -- 
+  00 -- -- -- -- -- 03 03 
+#squares: 20
+#pieces:
+ Bag1: 5
+ Bag2: 4
+CPU Time: 5996.189s
+Optimum: yes
+ Board Size: 30x30
+Threads: 16
+Choices: 161806376
+Conflicts: 80628165
+Restarts: 45482
+Variables: 32025
+Constraints: 105153

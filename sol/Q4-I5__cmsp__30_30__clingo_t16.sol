@@ -1,0 +1,37 @@
+Problem: Q4-I5
+Solution:
+ Bag1:
+  04 04 
+  04 04 
+  03 03 
+  03 03 
+  02 02 
+  02 02 
+  01 01 
+  01 01 
+  00 00 
+  00 00 
+ Bag2:
+  05 07 
+  05 07 
+  05 07 
+  05 07 
+  05 07 
+  00 06 
+  00 06 
+  00 06 
+  00 06 
+  00 06 
+#squares: 20
+#pieces:
+ Bag1: 5
+ Bag2: 4
+CPU Time: 1.167s
+Optimum: yes
+ Board Size: 30x30
+Threads: 16
+Choices: 160936
+Conflicts: 45976
+Restarts: 105
+Variables: 10431
+Constraints: 32617

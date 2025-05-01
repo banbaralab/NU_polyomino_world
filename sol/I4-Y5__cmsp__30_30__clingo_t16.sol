@@ -1,0 +1,29 @@
+Problem: I4-Y5
+Solution:
+ Bag1:
+  00 00 00 00 -- 
+  -- 02 03 04 -- 
+  -- 02 03 04 -- 
+  -- 02 03 04 -- 
+  -- 02 03 04 -- 
+  -- 01 01 01 01 
+ Bag2:
+  00 00 00 00 -- 
+  -- 02 00 05 -- 
+  -- 02 02 05 -- 
+  -- 02 05 05 -- 
+  -- 02 01 05 -- 
+  -- 01 01 01 01 
+#squares: 20
+#pieces:
+ Bag1: 5
+ Bag2: 4
+CPU Time: 5480.733s
+Optimum: yes
+ Board Size: 30x30
+Threads: 16
+Choices: 210193771
+Conflicts: 117961184
+Restarts: 87067
+Variables: 26857
+Constraints: 92208

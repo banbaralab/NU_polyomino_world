@@ -1,0 +1,31 @@
+Problem: I4-P5
+Solution:
+ Bag1:
+  -- -- -- 03 -- 
+  -- -- -- 03 04 
+  -- -- -- 03 04 
+  -- -- -- 03 04 
+  02 02 02 02 04 
+  01 01 01 01 -- 
+  00 00 00 00 -- 
+ Bag2:
+  -- -- -- 07 -- 
+  -- -- -- 07 07 
+  -- -- -- 07 07 
+  -- -- -- 06 06 
+  00 00 06 06 06 
+  00 00 05 05 -- 
+  00 05 05 05 -- 
+#squares: 20
+#pieces:
+ Bag1: 5
+ Bag2: 4
+CPU Time: 1300.165s
+Optimum: yes
+ Board Size: 30x30
+Threads: 16
+Choices: 70236341
+Conflicts: 36872981
+Restarts: 23119
+Variables: 26308
+Constraints: 92206
