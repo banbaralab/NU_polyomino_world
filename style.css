@@ -5,6 +5,7 @@ p img {
 }
 
 a img {
+    max-height: 350px;
     margin: auto;
     display: block;
 }
