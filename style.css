@@ -5,9 +5,18 @@ p img {
 }
 
 a img {
-    max-height: 60%;
     margin: auto;
     display: block;
+}
+
+td {
+    width: 200px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+table {
+    margin: auto;
 }
 
 #content {
