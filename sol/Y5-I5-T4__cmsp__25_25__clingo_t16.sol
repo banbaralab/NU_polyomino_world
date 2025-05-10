@@ -1,6 +1,6 @@
 Problem: Y5-I5-T4
 Solution:
- Bag1:
+ Bag1: Y5
   -- 06 
   06 06 
   05 06 
@@ -22,7 +22,7 @@ Solution:
   07 00 
   07 07 
   07 -- 
- Bag2:
+ Bag2: I5
   -- 0b 
   05 0b 
   05 0b 
@@ -44,7 +44,7 @@ Solution:
   07 08 
   07 08 
   07 -- 
- Bag3:
+ Bag3: T4
   -- 06 
   06 06 
   11 06 

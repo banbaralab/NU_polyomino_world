@@ -1,6 +1,6 @@
 Problem: I4-I5
 Solution:
- Bag1:
+ Bag1: I4
   04 
   04 
   04 
@@ -21,7 +21,7 @@ Solution:
   00 
   00 
   00 
- Bag2:
+ Bag2: I5
   07 
   07 
   07 

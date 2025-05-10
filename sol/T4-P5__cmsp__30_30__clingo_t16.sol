@@ -1,6 +1,6 @@
 Problem: T4-P5
 Solution:
- Bag1:
+ Bag1: T4
   03 -- 
   03 03 
   03 02 
@@ -12,7 +12,7 @@ Solution:
   04 00 
   04 04 
   04 -- 
- Bag2:
+ Bag2: P5
   03 -- 
   03 03 
   03 03 

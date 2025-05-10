@@ -1,6 +1,6 @@
 Problem: T4-I5
 Solution:
- Bag1:
+ Bag1: T4
   -- 08 
   08 08 
   07 08 
@@ -24,7 +24,7 @@ Solution:
   09 00 
   09 09 
   09 -- 
- Bag2:
+ Bag2: I5
   -- 0e 
   06 0e 
   06 0e 

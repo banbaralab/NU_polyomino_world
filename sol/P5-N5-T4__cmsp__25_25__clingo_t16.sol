@@ -1,6 +1,6 @@
 Problem: P5-N5-T4
 Solution:
- Bag1:
+ Bag1: P5
   -- 07 
   07 07 
   07 07 
@@ -22,7 +22,7 @@ Solution:
   00 00 
   00 00 
   00 -- 
- Bag2:
+ Bag2: N5
   -- 0c 
   0c 0c 
   0c 0b 
@@ -44,7 +44,7 @@ Solution:
   08 00 
   00 00 
   00 -- 
- Bag3:
+ Bag3: T4
   -- 0f 
   0f 0f 
   06 0f 

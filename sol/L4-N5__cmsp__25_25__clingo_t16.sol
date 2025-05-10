@@ -1,6 +1,6 @@
 Problem: L4-N5
 Solution:
- Bag1:
+ Bag1: L4
   -- 04 
   -- 04 
   04 04 
@@ -14,7 +14,7 @@ Solution:
   00 00 
   -- 00 
   -- 00 
- Bag2:
+ Bag2: N5
   -- 03 
   -- 03 
   03 03 

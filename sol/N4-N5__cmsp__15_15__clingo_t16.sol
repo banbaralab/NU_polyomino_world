@@ -1,6 +1,6 @@
 Problem: N4-N5
 Solution:
- Bag1:
+ Bag1: N4
   -- 04 
   04 04 
   04 03 
@@ -12,7 +12,7 @@ Solution:
   01 00 
   00 00 
   00 -- 
- Bag2:
+ Bag2: N5
   -- 06 
   06 06 
   06 05 

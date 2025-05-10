@@ -1,6 +1,6 @@
 Problem: P5-Y5-I4
 Solution:
- Bag1:
+ Bag1: P5
   07 -- 
   07 07 
   07 07 
@@ -22,7 +22,7 @@ Solution:
   00 00 
   00 00 
   -- 00 
- Bag2:
+ Bag2: Y5
   0c -- 
   0c 0c 
   0c 0b 
@@ -44,7 +44,7 @@ Solution:
   08 00 
   00 00 
   -- 00 
- Bag3:
+ Bag3: I4
   0c -- 
   0c 13 
   0c 13 
