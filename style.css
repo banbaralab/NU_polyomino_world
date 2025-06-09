@@ -10,15 +10,20 @@ a img {
     display: block;
 }
 
+table {
+    margin: auto;
+    margin-bottom: 50px;
+    table-layout: fixed;
+    width: 100%;
+}
+
 td {
     width: 200px;
     text-align: center;
     vertical-align: middle;
-}
-
-table {
-    margin: auto;
-    margin-bottom: 50px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
 }
 
 #content {
