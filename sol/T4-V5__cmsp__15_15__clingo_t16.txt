@@ -32,6 +32,7 @@ Solution:
  Bag2: 8
 CPU Time: 9599.915s
 Optimum: unknown
+Board Size: 15x15
 Threads: 16
 Choices: 285364771
 Conflicts: 214845818

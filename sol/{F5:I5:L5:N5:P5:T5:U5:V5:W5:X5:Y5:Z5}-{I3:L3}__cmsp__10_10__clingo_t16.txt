@@ -42,6 +42,7 @@ Solution:
   L3: 11
 CPU Time: 19178.633s
 Optimum: unknown
+Board Size: 10x10
 Threads: 16
 Choices: 186622347
 Conflicts: 130774620

@@ -45,6 +45,7 @@ Solution:
   T4: 2
 CPU Time: 19180.923s
 Optimum: unknown
+Board Size: 10x10
 Threads: 16
 Choices: 182380565
 Conflicts: 119043011

@@ -1,0 +1,43 @@
+Problem: L4-Y5
+Solution:
+ Bag1: L4
+  04 -- 
+  04 -- 
+  04 04 
+  03 03 
+  02 03 
+  02 03 
+  02 02 
+  01 01 
+  01 -- 
+  01 -- 
+  00 00 
+  00 -- 
+  00 -- 
+ Bag2: Y5
+  03 -- 
+  03 -- 
+  03 03 
+  03 06 
+  06 06 
+  05 06 
+  05 06 
+  05 05 
+  05 -- 
+  00 -- 
+  00 00 
+  00 -- 
+  00 -- 
+#squares: 20
+#pieces:
+ Bag1: 5
+ Bag2: 4
+CPU Time: 9598.905s
+Optimum: unknown
+Board Size: 15x15
+Threads: 16
+Choices: 310664428
+Conflicts: 210470808
+Restarts: 115704
+Variables: 8668
+Constraints: 29769

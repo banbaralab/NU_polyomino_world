@@ -32,7 +32,7 @@ Solution:
  Bag2: 8
 CPU Time: 3079.098s
 Optimum: yes
- Board Size: 25x25
+Board Size: 25x25
 Threads: 16
 Choices: 95815208
 Conflicts: 64345116

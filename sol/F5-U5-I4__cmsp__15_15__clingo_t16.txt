@@ -46,7 +46,7 @@ Solution:
  Bag3: 20
 CPU Time: 635.482s
 Optimum: yes
- Board Size: 15x15
+Board Size: 15x15
 Threads: 16
 Choices: 10210220
 Conflicts: 6959223

@@ -20,7 +20,7 @@ Solution:
  Bag2: 4
 CPU Time: 5604.462s
 Optimum: yes
- Board Size: 20x20
+Board Size: 20x20
 Threads: 16
 Choices: 212427338
 Conflicts: 129370380
