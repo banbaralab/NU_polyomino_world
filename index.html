@@ -27,8 +27,7 @@
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
 <li><a href="#org2164812">Common Multiple Shape Puzzle</a></li>
-<li><a href="#org6a14ffc">New Results</a></li>
-<li><a href="#orge49070d">Catalogs</a></li>
+<li><a href="#orge49070d">Solution Catalog</a></li>
 <li><a href="#org3820384">References</a></li>
 <li><a href="#orga14d5d9">Contact</a></li>
 </ul>
@@ -44,11 +43,22 @@
 <h2 id="org2164812">Common Multiple Shape Puzzle</h2>
 <div class="outline-text-2" id="text-org2164812">
 <p>
-Common Multiple Shape Puzzle is defined as the task of finding, for given finite sets <i>S<sub>1</sub></i>, <i>S<sub>2</sub></i>, &#x2026;, <i>S<sub>n</sub></i> of polyominoes, a common shape that can be tiled by <i>S<sub>1</sub></i>, <i>S<sub>2</sub></i>, &#x2026;, <i>S<sub>n</sub></i>, respectively. For each set <i>S<sub>i</sub></i>, multiple copies of polyominoes can be used.
+The Common Multiple Shape Puzzle (CMSP) is defined as the task of finding, for given finite sets <i>S<sub>1</sub></i>, <i>S<sub>2</sub></i>, &#x2026;, <i>S<sub>n</sub></i> of polyominoes, a common shape that can be tiled separately by each <i>S<sub>i</sub></i>.
+Multiple copies of the polyominoes from each set may be used.
+The figure above shows an example solution of a CMSP with <i>S<sub>1</sub>={X-pentomino}</i>, <i>S<sub>2</sub>={L-pentomino}</i>, and <i>S<sub>3</sub>={N-tetromino}</i>.
+</p>
+<p>
+CMSP can be considered a generalization of the <i>Polypolyominoes</i> puzzle in which each set has a single polyomino.
+Polypolyominoes and its variants have been studied by 
+Livio Zucca, 
+<a href="https://web.archive.org/web/20091027093922/http://geocities.com/jorgeluismireles/polypolyominoes/">Jorge Mireles</a>,
+<a href="https://web.archive.org/web/20110222051130/http://www.iread.it/Poly/">Giovanni Resta</a>, and 
+<a href="http://www.recmath.org/PolyCur/polycur.html">George Sicherman</a>.
 </p>
 </div>
 </div>
 
+<!--
 <div id="outline-container-org6a14ffc" class="outline-2">
 <h2 id="org6a14ffc">New Results</h2>
 <div class="outline-text-2" id="text-org6a14ffc">
@@ -60,18 +70,18 @@ Common Multiple Shape Puzzle is defined as the task of finding, for given finite
 </ul>
 </div>
 </div>
+-->
 
 <div id="outline-container-orge49070d" class="outline-2">
-<h2 id="orge49070d">Catalogs</h2>
+<h2 id="orge49070d">Solution Catalog</h2>
 <div class="outline-text-2" id="text-orge49070d">
 <p>
-The catalogs below present the solutions found by our search with Answer Set Programming. In the catalogs, click a problem name to see a solution and statistics in text format, and click an image to enlarge it.
+  All of the solutions listed in our catalog were obtained using <a href="https://en.wikipedia.org/wiki/Answer_set_programming">ASP</a> encodings we developed.
 </p>
-
 <ul class="org-ul">
-<li><a href="./Others.html">Others</a></li>
-<li><a href="./Tetromino-Pentomino.html">Tetromino-Pentomino</a></li>
-<li><a href="./Pento-Pento-Tetrominoes.html">Pento-Pento-Tetrominoes</a></li>
+<li><a href="./Others.html">Common Multiple Shape Puzzle</a> (in which each set has multiple polyominoes)</li>
+<li><a href="./Tetromino-Pentomino.html">Tetromino-Pentomino</a> (traditional Polypolyominoes)</li>
+<li><a href="./Pento-Pento-Tetrominoes.html">Pento-Pento-Tetrominoes</a> (traditional Polypolyominoes)</li>
 </ul>
 </div>
 </div>
@@ -80,12 +90,16 @@ The catalogs below present the solutions found by our search with Answer Set Pro
 <h2 id="org3820384">References</h2>
 <div class="outline-text-2" id="text-org3820384">
 <ol class="org-ol">
-<li>Banbara, M., Minato, S., Ono, H., Uehara, R.: On the Computational Complexity of Generalized Common Shape Puzzles. Proceedings of the Forty-ninth International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM'24). Lecture Notes in Computer Science, vol. 14519, pp. 55-68. Springer (2024). <a href="https://doi.org/10.1007/978-3-031-52113-3_4">10.1007/978-3-031-52113-3_4</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Polyomino">"Polyomino". Wikipedia</a></li>
-<li><a href="http://deepgreen.game.coocan.jp">DeepGreen, "Computer Puzzle Solution"</a></li>
-<li><a href="https://web.archive.org/web/20091027093922/http://geocities.com/jorgeluismireles/polypolyominoes/">Mireles, J.L., "Poly<sup>2</sup>ominoes"</a></li>
-<li><a href="https://web.archive.org/web/20110222051130/http://www.iread.it/Poly/">Resta, G., "Polypolyominoes"</a></li>
-<li><a href="http://www.recmath.org/PolyCur/polycur.html">Sicherman, G., "Polyform Curiosities"</a></li>
+  <li>
+    <b><a href="https://doi.org/10.1007/978-3-031-52113-3_4">"On the Computational Complexity of Generalized Common Shape Puzzles"</a></b><br />
+    Mutsunori Banbara, Shin-ichi Minato, Hirotaka Ono and Ryuhei Uehara<br />
+    <i>Proceedings of the Forty-ninth International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM'24)</i>, 
+    LNCS 14519, pp. 55-68. Springer (2024)</li>
+  <li><a href="https://en.wikipedia.org/wiki/Polyomino">"Polyomino", Wikipedia</a></li>
+  <li><a href="http://deepgreen.game.coocan.jp/MCFG/MCFG_index.htm">"Computer Puzzle Solution", DeepGreen</a> (in Japanese)</li>
+  <li><a href="https://web.archive.org/web/20091027093922/http://geocities.com/jorgeluismireles/polypolyominoes/">"Poly<sup>2</sup>ominoes", Jorge Mireles</a></li>
+  <li><a href="https://web.archive.org/web/20110222051130/http://www.iread.it/Poly/">"Polypolyominoes", Giovanni Resta</a></li>
+  <li><a href="http://www.recmath.org/PolyCur/polycur.html">"Polyform Curiosities", Col. George Sicherman</a></li>
 </ol>
 </div>
 </div>
@@ -94,10 +108,9 @@ The catalogs below present the solutions found by our search with Answer Set Pro
 <h2 id="orga14d5d9">Contact</h2>
 <div class="outline-text-2" id="text-orga14d5d9">
 <p>
-<a href="https://profs.provost.nagoya-u.ac.jp/html/100010242_en.html">Mutsunori Banbara</a> <br />
+<a href="https://banbara.github.io/">Mutsunori Banbara</a> <br />
 Professor <br />
-Nagoya University <br />
-Graduate School of Informatics <br />
+Graduate School of Informatics, Nagoya University<br />
 Furo-cho, Chikusa-ward, Nagoya-city, 464-8601
 </p>
 </div>
