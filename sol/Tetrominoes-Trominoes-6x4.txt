@@ -1,0 +1,27 @@
+Problem: {I4:L4:N4:Q4:T4}-{I3:L3}
+Solution:
+ Bag1: I4,L4,N4,Q4,T4
+  03 03 02 05 05 05 
+  03 03 02 02 05 04 
+  01 01 01 02 04 04 
+  01 00 00 00 00 04 
+ Bag2: I3,L3
+  07 08 09 0b 0c 0c 
+  07 08 09 0b 0b 0c 
+  07 08 09 0a 0a 0a 
+  01 01 01 06 06 06 
+#squares: 24
+#pieces:
+ Bag1: 6
+  I4: 1
+  L4: 1
+  N4: 1
+  Q4: 1
+  T4: 2
+ Bag2: 8
+  I3: 6
+  L3: 2
+CPU Time: 7.405s
+Optimum: yes
+Board Size: 6x4
+Threads: 8
